@@ -1,6 +1,7 @@
 # JPA 그룹 스터디 저장소
 
-![image](https://github.com/LeeBG/JPA_Reapeat/assets/44068819/55239c0b-31fa-4ecc-8e49-188139a547b5)
+![image](https://github.com/Chae-Haram/JPA_Reapeat/assets/147151314/a5c59b7e-49a0-4a96-ad9b-fb11ec4a4398)
+
 
 
 # 스터디
